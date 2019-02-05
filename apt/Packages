@@ -14,7 +14,7 @@ Description: Skeuomorphic GUI for kloader
 Author: @nyan_satan
 Depiction: http://nyansatan.github.io/apt/depictions/wayout.html
 Icon: file:///Applications/WayOut.app/icon7.png
-Name: Way Out
+Name: Way Out 2
 
 Package: com.nyansatan.dualbootstuff
 Version: 1.0.7a
